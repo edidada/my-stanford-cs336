@@ -1,0 +1,18 @@
+[submodule "upstream/assignment1-basics"]
+	path = upstream/assignment1-basics
+	url = https://github.com/stanford-cs336/assignment1-basics.git
+[submodule "upstream/assignment2-systems"]
+	path = upstream/assignment2-systems
+	url = https://github.com/stanford-cs336/assignment2-systems.git
+[submodule "upstream/assignment3-scaling"]
+	path = upstream/assignment3-scaling
+	url = https://github.com/stanford-cs336/assignment3-scaling.git
+[submodule "upstream/assignment4-data"]
+	path = upstream/assignment4-data
+	url = https://github.com/stanford-cs336/assignment4-data.git
+[submodule "upstream/assignment5-alignment"]
+	path = upstream/assignment5-alignment
+	url = https://github.com/stanford-cs336/assignment5-alignment.git
+[submodule "upstream/lectures"]
+	path = upstream/lectures
+	url = https://github.com/stanford-cs336/lectures.git
