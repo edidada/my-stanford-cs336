@@ -16,3 +16,6 @@
 [submodule "upstream/lectures"]
 	path = upstream/lectures
 	url = https://github.com/stanford-cs336/lectures.git
+[submodule "math"]
+	path = math
+	url = git@github.com:edidada/math.git
